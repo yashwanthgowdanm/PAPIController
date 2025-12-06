@@ -1,0 +1,11 @@
+# MATLAB specific
+*.asv
+*.m~
+*.slxc
+*.slx.r20*
+*.mex*
+*.fig
+
+# System files
+.DS_Store
+Thumbs.db

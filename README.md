@@ -1,4 +1,4 @@
-# Predictive Adaptive Control for Solar-Powered Irrigation
+# Predictive Adaptive PI Control for Solar-Powered Irrigation
 
 **Course:** MAE 506: Advanced System Modeling, Dynamics and Control (Arizona State University)  
 **Team 15:** Ankur Guruprasad, Anudeep Sai Gottapu, Kapish Dubey, Yashwanth Gowda  
